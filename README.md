@@ -2,6 +2,8 @@
 
 My name is Michael Chourdakis, I'm a PhD researcher in AI and Audio/Video/Image Digital Signal Processing.
 - 🔭 I’m currently working in Music School of Alimos and as a freelancer developer/scientific researcher in AI.
+- I'm creating a full scale Video, Image, Audio AI application: https://www.turbo-play.com
+  
 
 <!--
 **WindowsNT/WindowsNT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
